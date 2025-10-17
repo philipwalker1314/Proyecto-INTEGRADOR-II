@@ -1,8 +1,8 @@
 # Proyecto-INTEGRADOR-II
-# Prepupex
+# Presupex
 
 ### Descripción general
-Prepupex es una aplicación para llevar el control de gastos e ingresos personales.  
+Presupex es una aplicación para llevar el control de gastos e ingresos personales.  
 La idea es que el usuario pueda ver cuánto dinero entra y sale, además de tener un balance claro y gráficos que le ayuden a entender sus finanzas.
 
 El proyecto se está desarrollando en **Android Studio con Kotlin**, y se usarán herramientas como **Room Database**, **RecyclerView**, y **MPAndroidChart** para los gráficos.
