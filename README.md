@@ -1,5 +1,5 @@
 # Proyecto-INTEGRADOR-II
-# 💰 Prepupex
+# Prepupex
 
 ### Descripción general
 Prepupex es una aplicación para llevar el control de gastos e ingresos personales.  
@@ -9,7 +9,7 @@ El proyecto se está desarrollando en **Android Studio con Kotlin**, y se usará
 
 ---
 
-## 🧩 Funciones principales
+## Funciones principales
 - Agregar ingresos y gastos con su respectiva categoría, monto y fecha.  
 - Mostrar el balance general de forma sencilla.  
 - Ver el historial completo de movimientos.  
@@ -18,7 +18,7 @@ El proyecto se está desarrollando en **Android Studio con Kotlin**, y se usará
 
 
 
-## 📱 Mockups de la aplicación
+## Mockups de la aplicación
 
 ### Pantalla 1 - Dashboard (Inicio)
 Vista principal con el balance total, botones para agregar ingreso o gasto.
@@ -38,7 +38,7 @@ Pantalla con gráficos de barras y pastel que resumen los ingresos y gastos.
 
 ---
 
-## 🧠 Tecnologías que voy a usar
+## Tecnologías que voy a usar
 - Kotlin  
 - Android Studio  
 - Room Database  
@@ -47,5 +47,5 @@ Pantalla con gráficos de barras y pastel que resumen los ingresos y gastos.
 - ViewModel y LiveData  
 
 
-## 📅 Estado actual
+## Estado actual
 Actualmente estoy en la fase de **diseño de mockups**, y luego continuaré con la implementación del modelo de datos y la lógica de la app.
